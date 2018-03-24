@@ -1,5 +1,5 @@
 # PRs-Kubernetes
-List of PR's in Kubernetes
+List of PR's in Kubernetes along with iterations done while implementing the PR
 
 | PR Number | Fixes Issue | Corresponding gist | Repository |
 |-----------|-------------|--------------------|------------|
